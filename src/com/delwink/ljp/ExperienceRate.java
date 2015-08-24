@@ -24,5 +24,9 @@ package com.delwink.ljp;
 public enum ExperienceRate {
     SLOW,
     MEDIUM,
-    FAST
+    FAST;
+    
+
+    }
+
 }
