@@ -1,5 +1,5 @@
 /*
- * ljpapi - Libre Java Pathfinder API
+ * ljpapi - Libre Java Pathfinding API
  * Copyright (C) 2015 Delwink, LLC
  *
  * This program is free software: you can redistribute it and/or modify

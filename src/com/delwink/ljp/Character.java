@@ -1,5 +1,5 @@
 /*
- * ljpapi - Libre Java Pathfinder API
+ * ljpapi - Libre Java Pathfinding API
  * Copyright (C) 2015 Delwink, LLC
  *
  * This program is free software: you can redistribute it and/or modify
@@ -20,7 +20,7 @@ package com.delwink.ljp;
 import java.util.ArrayList;
 
 /**
- * A character in the Pathfinder RPG.
+ * A character in the RPG.
  * @author David McMackins II
  */
 public class Character {
